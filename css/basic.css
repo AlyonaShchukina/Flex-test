@@ -1,0 +1,117 @@
+@import "game.css";
+
+.container {
+    width: 400px;
+    height: 400px;
+    margin: 10px auto;
+    position: relative;
+    display: flex;
+}
+
+.red,
+.green,
+.blue {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.number {
+    position: absolute;
+    top: 0;
+    right: -30px;
+    color: rgb(187, 187, 187);
+    font-size: 24px;
+}
+
+/*==================part-1====================================*/
+.c1 {
+    background-image: url(../img/place1.png);
+}
+
+.c2 {
+    background-image: url(../img/place8.png);
+}
+
+.c3 {
+    background-image: url(../img/place2.png);
+}
+
+.c4 {
+    background-image: url(../img/place3.png);
+}
+
+.c5 {
+    background-image: url(../img/place4.png);
+}
+
+.c6 {
+    background-image: url(../img/place5.png);
+}
+
+.c7 {
+    background-image: url(../img/place6.png);
+}
+
+.c8 {
+    background-image: url(../img/place7.png);
+}
+
+.c9 {
+    background-image: url(../img/place9.png);
+}
+
+/*==================part-2====================================*/
+
+.c10 {
+    background-image: url(../img/place10.png);
+}
+
+.c11 {
+    background-image: url(../img/place11.png);
+}
+
+.c12 {
+    background-image: url(../img/place12.png);
+}
+
+.c13 {
+    background-image: url(../img/place13.png);
+}
+
+.c14 {
+    background-image: url(../img/place14.png);
+}
+
+.c15 {
+    background-image: url(../img/place15.png);
+}
+
+.c16 {
+    background-image: url(../img/place16.png);
+}
+
+.c17 {
+    background-image: url(../img/place17.png);
+}
+
+.c18 {
+    background-image: url(../img/place18.png);
+}
+
+.c19 {
+    background-image: url(../img/place19.png);
+}
